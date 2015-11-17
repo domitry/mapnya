@@ -1,0 +1,23 @@
+{
+  "name": "mapnya",
+  "version": "0.1.0",
+  "description": "Map extension for Nyaplot",
+  "main": "src/main.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/domitry/mapnya"
+  },
+  "keywords": [
+    "visualization",
+    "d3",
+    "nyaplot"
+  ],
+  "author": "Naoki Nishida",
+  "license": "MIT"
+}
